@@ -24,4 +24,4 @@
 
 <div align=center>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devStudy99)](https://solved.ac/devStudy99/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devStudy99)](https://solved.ac/devStudy99/) -->
