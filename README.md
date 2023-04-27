@@ -10,6 +10,9 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	  <img src="https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat&logo=Redux&logoColor=purple">
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white" /><br>
+     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
+     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
 	<br>
 </div>
 <br>
