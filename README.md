@@ -12,8 +12,12 @@
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white" /><br>
      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
-     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Passport-34E27A?style=flat&logo=Passport&logoColor=white"/>
 	<br>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
+
 </div>
 <br>
 <div align=center>
